@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://emjeeee.github.io/sitemap.xml
+Sitemap: https://emjeeee.github.io/kalkulator-omzet-suami-istri/sitemap.xml
+Sitemap: https://emjeeee.github.io/kalkulator-zakat-usaha/sitemap.xml
